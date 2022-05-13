@@ -35,7 +35,7 @@ namespace ConsoleApp8
                         }
                         else
                         {
-                            Console.WriteLine($"Файл: {file.FullName} - не удален");
+                            Console.WriteLine($"Файл: {file.FullName} - не удален"); 
                             continue;
                         }
                     }
